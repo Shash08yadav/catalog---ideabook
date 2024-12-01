@@ -11,3 +11,9 @@
         "react-dom" : "$react-dom"
     }
 ```
+
+## Packages 
+1. [Auth.js](https://authjs.dev/)
+    - Design Authentication from Scratch
+
+2. 
